@@ -6,7 +6,7 @@ This is my vim configuration. It will contiuning maintanance till I'm quit devel
 * Python
 * PHP
 * jQuery
-* Others (unknown know?)
+* Others (unknown)
 
 ## Source configuration
 It's reference from github:: [fisadev/fisa-vim-config](https://github.com/fisadev/fisa-vim-config)
