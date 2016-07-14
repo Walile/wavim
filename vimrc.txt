@@ -103,7 +103,8 @@ Bundle 'YankRing.vim'
 Bundle 'itspriddle/vim-jquery'
 " php vim
 Bundle 'StanAngeloff/php.vim'
-
+" vim theme
+Bundle 'vim-airline-themes'
 " ============================================================================
 " Install plugins the first time vim runs
 
