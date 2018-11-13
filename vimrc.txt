@@ -99,12 +99,10 @@ Bundle 'matchit.zip'
 Bundle 'Wombat'
 " Yank history navigation
 Bundle 'YankRing.vim'
-" jQuery vim plugin
-Bundle 'itspriddle/vim-jquery'
 " php vim
 Bundle 'StanAngeloff/php.vim'
 " vim theme
-Bundle 'vim-airline-themes'
+Bundle 'dracula/vim'
 " ============================================================================
 " Install plugins the first time vim runs
 
