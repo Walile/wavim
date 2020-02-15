@@ -4,7 +4,6 @@ This is my vim configuration. It will contiuning maintanance till I'm quit devel
 
 ## Language configuration
 * Python
-* PHP
 * Others (unknown)
 
 ## Source configuration
